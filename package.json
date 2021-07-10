@@ -1,0 +1,23 @@
+{
+  "name": "bookmark-landing-page-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwinds": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohald89/Bookmark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohald89/Bookmark/issues"
+  },
+  "homepage": "https://github.com/rohald89/Bookmark#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.4"
+  }
+}
